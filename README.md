@@ -1,6 +1,6 @@
 # Spring-REST-HandOn-Employee
 
-HandsOn Day-2\
+HandsOn Day-2
 
 Mappings
 1. /getAllEmployees
