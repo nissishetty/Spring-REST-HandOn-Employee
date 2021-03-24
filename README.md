@@ -7,7 +7,7 @@ Mappings
 4. /getEmployeeById/{id}
 5. /deleteEmployee/{id}
 
-Static Data Provided
+Static Data Provided\
 Test the above end points in Postman.
 
 Happy Coding!!!!
